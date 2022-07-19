@@ -25,16 +25,16 @@
   "rules": {
     "react/jsx-uses-react": "off",
     "react/react-in-jsx-scope": "off",
-    "react/prop-types": "off",
-    "import/order": [
-      2,
-      {
-        "alphabetize": {
-          "order": "asc",
-          "caseInsensitive": true
-        },
-        "newlines-between": "always"
-      }
-    ]
+    "react/prop-types": "off"
+    // "import/order": [
+    //   2,
+    //   {
+    //     "alphabetize": {
+    //       "order": "asc",
+    //       "caseInsensitive": true
+    //     },
+    //     "newlines-between": "always"
+    //   }
+    // ]
   }
 }
